@@ -1,0 +1,2 @@
+Variant,Learning Rate,Quartile_1,Quartile_2,Quartile_3,Quartile_4,Overall
+weighted,0.0001,0.6647 +/- 0.0,0.8878 +/- 0.0,0.7966 +/- 0.0,0.512 +/- 0.0,0.651 +/- 0.0

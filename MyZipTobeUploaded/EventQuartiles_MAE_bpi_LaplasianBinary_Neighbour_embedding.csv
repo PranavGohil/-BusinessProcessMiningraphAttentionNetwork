@@ -1,0 +1,2 @@
+Variant,Learning Rate,Quartile_1,Quartile_2,Quartile_3,Quartile_4,Overall
+LaplasianBinary,0.001,1.0991 +/- 0.0,1.5462 +/- 0.0,1.5893 +/- 0.0,1.1281 +/- 0.0,1.3363 +/- 0.0

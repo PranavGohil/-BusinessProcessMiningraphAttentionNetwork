@@ -1,0 +1,2 @@
+Variant,Learning Rate,Quartile_1,Quartile_2,Quartile_3,Quartile_4,Overall
+LaplasianWeighted,0.001,3.6003 +/- 0.0,5.641 +/- 0.0,3.2821 +/- 0.0,0.3251 +/- 0.0,2.3003 +/- 0.0

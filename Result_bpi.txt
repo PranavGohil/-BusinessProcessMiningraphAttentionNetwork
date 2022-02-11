@@ -1,0 +1,217 @@
+Regression LaplasianBinary
+
+event Quartile :
+
+	MAE for Quartile 1: 1.0990597494365206
+	MAE for Quartile 2: 1.5461777811362842
+	MAE for Quartile 3: 1.5892528858584662
+	MAE for Quartile 4: 1.1281215580661772
+	Overall MAE: 1.3363397995556332
+Dataset: bpi
+Model Variant: LaplasianBinary
+Learning rate: 0.001, Overall MAE: 1.3363
+
+Time
+MAE for Quartile 1: 1.6814618483430446
+MAE for Quartile 2: 2.3815824704953856
+MAE for Quartile 3: 1.7482654303465393
+MAE for Quartile 4: 0.5157635557244975
+Overall MAE: 1.3363397995556332
+Dataset: BPI
+Model Variant: LaplasianBinary
+Learning rate: 0.001, Overall MAE: 1.3363
+
+
+
+
+weighted 
+ event Quartile 
+ MAE for Quartile 1: 1.096010761070772
+ MAE for Quartile 2: 1.536144499546256
+ MAE for Quartile 3: 1.576029734206239
+ MAE for Quartile 4: 1.1299576262056212
+ Overall MAE: 1.3306784848886748
+ Dataset: bpi
+ Model Variant: Weighted
+ Learning rate: 0.001, Overall MAE: 1.3307
+
+time 
+   MAE for Quartile 1: 1.663437232925623
+MAE for Quartile 2: 2.391884619064721
+MAE for Quartile 3: 1.7659498352337415
+MAE for Quartile 4: 0.5093853562647985
+Overall MAE: 1.3306784848886748
+Dataset: BPI
+Model Variant: Weighted
+Learning rate: 0.001, Overall MAE: 1.3307 
+ 
+ 
+ 
+ 
+ 
+
+Binary 
+
+event 
+	MAE for Quartile 1: 1.1008907532035475
+	MAE for Quartile 2: 1.557078666362917
+	MAE for Quartile 3: 1.59083939604016
+	MAE for Quartile 4: 1.1289452293197089
+	Overall MAE: 1.3401670977069096
+	Dataset: bpi
+	Model Variant: Binary
+	Learning rate: 0.001, Overall MAE: 1.3402
+ 
+time 
+	MAE for Quartile 1: 1.689323281843312
+	MAE for Quartile 2: 2.39357157157011
+	MAE for Quartile 3: 1.7524532441900678
+	MAE for Quartile 4: 0.512861714502562
+	Overall MAE: 1.3401670977069096
+	Dataset: BPI
+	Model Variant: Binary
+	Learning rate: 0.001, Overall MAE: 1.3402 
+ 
+ 
+ 
+Lalasian weighted :
+    event 
+	MAE for Quartile 1: 1.1049929170600141
+	MAE for Quartile 2: 1.5420039530619858
+	MAE for Quartile 3: 1.586642606842934
+	MAE for Quartile 4: 1.1237285280808775
+	Overall MAE: 1.3344677974357295
+	Dataset: bpi
+	Model Variant: weighted Laplasian
+	Learning rate: 0.001, Overall MAE: 1.3344677974357295
+   
+   
+    time 
+	MAE for Quartile 1: 1.677715954534339
+	MAE for Quartile 2: 2.4228484206213894
+	MAE for Quartile 3: 1.7770209222416724
+	MAE for Quartile 4: 0.49154793335158703
+	Overall MAE: 1.3344677974357295
+	Dataset: BPI
+	Model Variant: LaplasianWeighted
+	Learning rate: 0.001, Overall MAE: 1.3345
+	
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Binary 
+  
+   Event 
+     Accuracy for Quartile 1: 0.7344110854503464
+	 Accuracy for Quartile 2: 0.7619887730553327
+	 Accuracy for Quartile 3: 0.8085693269584406
+	 Accuracy for Quartile 4: 0.4085243264977885
+	 Overall Accuracy: 0.6567351550403816
+	 Dataset: bpi
+	 Model Variant: Binary
+	 Learning rate: 0.0001, Overall Accuracy: 0.6567
+	 
+	tiME 
+	Accuracy for Quartile 1: 0.7575824175824176
+	Accuracy for Quartile 2: 0.8859287054409005
+	Accuracy for Quartile 3: 0.7922912205567452
+	Accuracy for Quartile 4: 0.43427733273158076
+	Overall Accuracy: 0.6567351550403816
+	Dataset: bpi
+	Model Variant: Binary
+	Learning rate: 0.0001, Overall Accuracy: 0.6567
+	 
+	 
+	 
+Weighted : 
+    
+	event 
+	Accuracy for Quartile 1: 0.6048708796976695
+	Accuracy for Quartile 2: 0.7249398556535686
+	Accuracy for Quartile 3: 0.8050753953659434
+	Accuracy for Quartile 4: 0.5063664388151722
+	Overall Accuracy: 0.6510022178516132
+	Dataset: bpi
+	Model Variant: Weighted
+	Learning rate: 0.0001, Overall Accuracy: 0.651
+	
+	Accuracy for Quartile 1: 0.6647252747252748
+	Accuracy for Quartile 2: 0.8878048780487805
+	Accuracy for Quartile 3: 0.7965738758029979
+	Accuracy for Quartile 4: 0.5120162473203205
+	Overall Accuracy: 0.6510022178516132
+	Dataset: bpi
+	Model Variant: weighted
+	Learning rate: 0.0001, Overall Accuracy: 0.651
+	
+
+
+	
+	
+	
+LaplasianBinary 
+      event : 
+    Accuracy for Quartile 1: 0.7306319546504304
+	Accuracy for Quartile 2: 0.7518845228548516
+	Accuracy for Quartile 3: 0.8058109599117322
+	Accuracy for Quartile 4: 0.4234016887816647
+	Overall Accuracy: 0.6573628488931665
+	Dataset: bpi
+	Model Variant: LaplasianBinary
+	Learning rate: 0.0001, Overall Accuracy: 0.6574
+	
+	
+	Time
+	Accuracy for Quartile 1: 0.7549450549450549
+	Accuracy for Quartile 2: 0.8870544090056285
+	Accuracy for Quartile 3: 0.7855613337412053
+	Accuracy for Quartile 4: 0.44082139230508854
+	Overall Accuracy: 0.6573628488931665
+	Dataset: bpi
+	Model Variant: LaplasianBinary
+	Learning rate: 0.0001, Overall Accuracy: 0.6574
+	
+	
+	
+LaplasianWeighted 
+       event
+	   Accuracy for Quartile 1: 0.73420113373924
+		Accuracy for Quartile 2: 0.7360064153969527
+	   Accuracy for Quartile 3: 0.7949613828613461
+        Accuracy for Quartile 4: 0.42085511325559577
+        Overall Accuracy: 0.6506674477967945
+	Dataset: bpi
+	Model Variant: LaplasianWeighted
+	Learning rate: 0.0001, Overall Accuracy: 0.6507
+	
+	
+	
+	Time 
+	Accuracy for Quartile 1: 0.7492307692307693
+	Accuracy for Quartile 2: 0.8675422138836772
+	Accuracy for Quartile 3: 0.7855613337412053
+	Accuracy for Quartile 4: 0.4345029899582534
+	Overall Accuracy: 0.6506674477967945
+	Dataset: bpi
+	Model Variant: LaplasianWeighted
+	Learning rate: 0.0001, Overall Accuracy: 0.6507
+	
+	
+
+
+
+
+
+
+
+	  
+
+
+ 
+ 
+
+
+
+
+
+
